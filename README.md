@@ -3,22 +3,12 @@
 This project aims to develop a comprehensive credit card fraud detection system for Transpe Limited, a global transaction company responsible for handling transactions across multiple banks worldwide. The system utilizes historical financial and demographic data to train a machine learning model, deploys it on Vertex AI Endpoint for real-time transaction analysis, and incorporates various components to process, classify, and handle fraudulent transactions. Additionally, Looker Dashboards are created to provide detailed insights into both fraud and non-fraud transactions, enabling effective monitoring and analysis.
 
 ## Toolbox 🧰
-<img src="https://miro.medium.com/v2/resize:fit:335/0*ARUQelkPpC1LwNFN" width="200" height="120" alt="Pub Sub"/> &emsp; <img src="https://lh6.googleusercontent.com/1MICxjbrbRPtEnzE54g2shaMRD2RocCIcuSOrqwaqryObCR6IrsXNb3Sd5MjBBwmoLeVcgVu_SE3vw-IbRA24SFhH4IT1xppVuuNGodDtFEykgD0Cw1vB2jITTsOgBNHvWfw27icmMs30SYgWQ" width="200" alt="GCP DTAFLOW" height="70"/>
-&emsp; <img src="https://miro.medium.com/max/600/1*HEzofakm1-c4c_Qn4zjmnQ.jpeg" width ="170" height="75" alt="Apache Beam"/>
-&emsp;<img src ="https://i.ytimg.com/vi/s6ytxB0YSR0/mqdefault.jpg" width="170" height="70" alt="Secret Manager"/> &emsp;
-<img src ="https://th.bing.com/th/id/OIP.k11NKB6vQbDyHstjaXOJygHaCk?pid=ImgDet&rs=1" width="200" height="100" alt="Google Cloud Storage"/> &emsp;
-<img src ="https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png" width="170" height="100" alt="Google Big Query"/> &emsp;
-<img src ="https://miro.medium.com/v2/resize:fit:584/1*q4EVSAndlvgFLyR6ncc4Bg.png" width="170" height="100" alt="Google cloud Functions"/> &emsp;
-<img src ="https://assets.website-files.com/618399cd49d125734c8dec95/63905b4ecedc3f60172bcd63_vertexai.png" width="170" height="100" alt="Vertex AI"/> &emsp;
-<img src ="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685918308/hevo-learn-1/Firestore-Data-Model-firestore-logo.png?_i=AA" width="170" height="100" alt="Google cloud Firestore"/> &emsp;
-<img src ="https://miro.medium.com/v2/resize:fit:961/1*tQKERQdZsjUArxXjaHo9PA.png" width="170" height="100" alt="Secret Manager"/> &emsp;
-<img src ="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Symbol.png" width="100" height="100" alt="ServiceNow"/> &emsp;
-<img src ="https://i.pinimg.com/originals/8d/39/f3/8d39f3958e82028615cdedacb496a114.jpg" width="170" height="100" alt="SMTP"/> &emsp;
-<img src ="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="170" height="100" alt="Python"/> &emsp;
+![Screenshot 2024-12-08 010128](https://github.com/user-attachments/assets/854daf6b-b2dc-467d-975a-11ef67721d52)
+
 
 ## Architecture Diagram
 
-<img src ="https://github.com/sandy0298/Credit_card_Fraud_Detection_uisng_GCP/blob/main/screenshots/arch.png" width="900" height="700" alt="architecture"/> &emsp;
+![Architecture Diagram](https://github.com/user-attachments/assets/db96cf1d-8692-4f26-953d-c28cfc44ddd9)
 
 ## Project Workflow:
 
