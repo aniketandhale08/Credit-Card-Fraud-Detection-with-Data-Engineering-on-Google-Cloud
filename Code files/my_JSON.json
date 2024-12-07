@@ -1,0 +1,84 @@
+*** Final Pub/Sub Schema ***
+
+{
+  "type": "record",
+  "name": "Avro",
+  "fields": [
+    {
+      "name": "type",
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "amount",
+      "type": "float"
+    },
+    {
+      "name": "oldbalanceOrig",
+      "type": "float"
+    },
+    {
+      "name": "newbalanceOrig",
+      "type": "float"
+    },
+    {
+      "name": "oldbalanceDest",
+      "type": "float"
+    },
+    {
+      "name": "newbalanceDest",
+      "type": "float"
+    },
+    {
+      "name": "Country",
+      "type": "string"
+    },
+    {
+      "name": "senders_name",
+      "type": "string"
+    },
+    {
+      "name": "ReceiversBank",
+      "type": "string"
+    },
+    {
+      "name": "SendersBank",
+      "type": "string"
+    },
+    {
+      "name": "receiver_name",
+      "type": "string"
+    },
+    {
+      "name": "TransactionDates",
+      "type": "string"
+    }
+  ]
+}
+
+
+
+*** Final Endpoint Testing Schema***
+
+{
+  "instances": [
+    {
+      "type": "TRANSFER",
+      "id": "048f750a-8dc6-42ba-8c6b-9337ef7acf06",
+      "amount": 850530.59,
+      "oldbalanceOrig": 850530.59,
+      "newbalanceOrig": 0.0,
+      "oldbalanceDest": 0.0,
+      "newbalanceDest": 0.0,
+      "Country": "China",
+      "senders_name": "James Johnson",
+      "ReceiversBank": "Santander Group",
+      "SendersBank": "Standard Chartered",
+      "receiver_name": "Dorothy Balkcom",
+      "TransactionDates": "Jun 13, 2020"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+gcsfs
+fsspec
+google-cloud-bigquery
+firestore
+google-cloud-aiplatform
+protobuf==4.23.4

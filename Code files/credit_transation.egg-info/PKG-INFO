@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: credit_transation
+Version: 0.0.1
+Summary: credit card transaction to BQ Dependency Packages
+Requires-Dist: gcsfs
+Requires-Dist: fsspec
+Requires-Dist: google-cloud-bigquery
+Requires-Dist: firestore
+Requires-Dist: google-cloud-aiplatform
+Requires-Dist: protobuf==4.23.4

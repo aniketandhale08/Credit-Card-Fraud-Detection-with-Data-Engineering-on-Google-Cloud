@@ -1,0 +1,16 @@
+gcloud config set project your_project_id
+
+cd your_directory
+
+
+python Transaction_Pipeline.py \
+    --dfBucket=gs://your_bucket \
+    --project=your_project_id \
+    --region=us-central1 \
+    --runner=DataflowRunner \
+    --temp_location=gs://your_bucket/temp/ \
+    --staging_location=gs://your_bucket/staging/ \
+    --setup_file=./setup.py
+
+
+

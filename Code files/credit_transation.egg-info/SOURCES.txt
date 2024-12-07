@@ -1,0 +1,6 @@
+setup.py
+credit_transation.egg-info/PKG-INFO
+credit_transation.egg-info/SOURCES.txt
+credit_transation.egg-info/dependency_links.txt
+credit_transation.egg-info/requires.txt
+credit_transation.egg-info/top_level.txt
