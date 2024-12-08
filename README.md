@@ -5,6 +5,25 @@ This project aims to develop a comprehensive credit card fraud detection system 
 ## Toolbox 🧰
 ![Screenshot 2024-12-08 010128](https://github.com/user-attachments/assets/854daf6b-b2dc-467d-975a-11ef67721d52)
 
+# Overview of Tools and Their Roles
+
+**1. BigQuery ML:** Enables advanced machine learning model training directly on large datasets stored in BigQuery and simplifies data preparation and feature engineering with SQL-based workflows.
+
+**2. Vertex AI:** Serves as the platform for deploying the trained fraud detection model and offers a REST API endpoint for real-time predictions.
+
+**3. Pub/Sub:** Acts as the backbone for real-time messaging, facilitating seamless data ingestion from on-prem systems to the cloud and triggering downstream processes.
+
+**4. Dataflow:** Processes incoming transactional data in real-time, enabling transformation, enrichment, and preparation of data for further analysis.
+
+**5. Firestore:** Provides a NoSQL document database for efficient storage and retrieval of processed transaction data, particularly for real-time applications.
+
+**6. Looker Studio:** Creates interactive dashboards and reports to visualize transaction trends, fraud patterns, and key metrics.
+
+**7. Cloud Functions:** Automates critical workflows, such as sending email notifications and triggering alerts based on fraud predictions.
+
+**8. Secret Manager:** Ensures secure storage and access to sensitive credentials, such as API keys and email configuration details.
+
+**9. Python:** Powers custom scripts for data ingestion, processing, and model interactions, providing flexibility and control over the system logic.
 
 ## Architecture Diagram
 
