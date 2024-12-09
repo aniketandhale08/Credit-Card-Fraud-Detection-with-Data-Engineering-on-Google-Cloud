@@ -3,7 +3,7 @@
 This project aims to develop a comprehensive credit card fraud detection system for Transpe Limited, a global transaction company responsible for handling transactions across multiple banks worldwide. The system utilizes historical financial and demographic data to train a machine learning model, deploys it on Vertex AI Endpoint for real-time transaction analysis, and incorporates various components to process, classify, and handle fraudulent transactions. Additionally, Looker Dashboards are created to provide detailed insights into both fraud and non-fraud transactions, enabling effective monitoring and analysis.
 
 ## Toolbox 🧰
-![Screenshot 2024-12-08 010128](https://github.com/user-attachments/assets/854daf6b-b2dc-467d-975a-11ef67721d52)
+![tools](https://github.com/user-attachments/assets/9786c138-9d54-494b-bc37-553ac0c09116)
 
 ## Overview of Tools and Their Roles
 
@@ -26,11 +26,10 @@ This project aims to develop a comprehensive credit card fraud detection system 
 **9. Python:** Powers custom scripts for data ingestion, processing, and model interactions, providing flexibility and control over the system logic.
 
 ## Architecture Diagram
-
-![Architecture Diagram](https://github.com/user-attachments/assets/db96cf1d-8692-4f26-953d-c28cfc44ddd9)
+![Architecture Diagram](https://github.com/user-attachments/assets/1299b117-6b7f-4f8b-aa80-feda1aea8fc4)
 
 ## **Workflow of the Project**
-![Blank diagram (1)](https://github.com/user-attachments/assets/fb8873ed-56b9-444f-9fe2-e0d3c1b58264)
+![Blank diagram (1)](https://github.com/user-attachments/assets/f4fa109f-55fe-45f3-85f2-4893451c4943)
 
 ### **1. Data Preparation**
 - **Data Collection**:  
@@ -51,8 +50,8 @@ This project aims to develop a comprehensive credit card fraud detection system 
 - **Evaluation Metrics**:  
   Metrics like **precision**, **recall**, and **F1-score** ensure the model is optimized for fraud detection accuracy.  
   Below are the metrics for the **BOOSTED_TREE_CLASSIFIER** after training.
-
-![BOOSTED_TREE_CLASSIFIER metrics](https://github.com/user-attachments/assets/4075841f-f0fa-4da9-8b25-c15d6ed0bb31)
+  
+![BOOSTED_TREE_CLASSIFIER metrics](https://github.com/user-attachments/assets/2a11cf20-7179-450e-a32d-59dea7298b43)
 
 ### **3. Model Deployment**
 - **Vertex AI**:  
@@ -92,15 +91,13 @@ This project aims to develop a comprehensive credit card fraud detection system 
   - Region-wise distribution of fraud cases.
   -  [Dashboard Link](https://lookerstudio.google.com/reporting/b326b751-5eb0-46b3-a998-d7e858a2f034)
 
-![Dashboard](https://github.com/user-attachments/assets/aaf97acc-5a3d-4ba7-83e7-b4070381291d)
-
-
+![Dashboard](https://github.com/user-attachments/assets/d1d95f7e-cbf6-4270-8721-d8ee5fb3116a)
 
 ## Email to Bank
-![bank mail](https://github.com/user-attachments/assets/7af0fc1b-d3fb-4f6b-b75d-d7681daa2372)
+![bank mail](https://github.com/user-attachments/assets/e61c91f7-338f-48da-bb4f-24f248f6c589)
 
 ## Email to Customer
-![customer mail](https://github.com/user-attachments/assets/6f9a9fc5-9bb6-4133-897c-6021eed9d8f2)
+![customer mail](https://github.com/user-attachments/assets/68eadc97-94e3-43a8-9ab0-04439bb060a3)
 
 ## **Code Structure**
 ```plaintext
