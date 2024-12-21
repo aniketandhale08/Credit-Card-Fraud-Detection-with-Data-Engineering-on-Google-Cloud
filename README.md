@@ -115,7 +115,10 @@ Working on this project has been an incredible learning experience. I gained val
 I am confident that the knowledge and experience I’ve gained from this project will help me excel in future roles as a Data Engineer. This project has not only strengthened my problem-solving skills but also fueled my passion for leveraging technology to solve real-world challenges. I look forward to applying these skills and continuing to grow in this exciting field.
 
 ## Project Video
-i encourage you all to watch teh project video for better understanding.
+I encourage you all to watch the project video for better understanding.
+- [Project Video Link](https://youtu.be/NmyJocN2kxU)
+
+
 ## Connect with Me
 Feel free to reach out if you have any questions or want to discuss data analytics:
 - [LinkedIn](https://www.linkedin.com/in/aniketandhale08/)
