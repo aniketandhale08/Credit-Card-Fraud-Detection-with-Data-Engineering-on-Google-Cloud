@@ -1,4 +1,4 @@
-# Credit Card Fraud-Detection-with-Data-Engineering-on-Google-Cloud
+# Credit Card Fraud-Detection with Data Engineering-on-Google-Cloud
 
 This project aims to develop a comprehensive credit card fraud detection system for Transpe Limited, a global transaction company responsible for handling transactions across multiple banks worldwide. The system utilizes historical financial and demographic data to train a machine learning model, deploys it on Vertex AI Endpoint for real-time transaction analysis, and incorporates various components to process, classify, and handle fraudulent transactions. Additionally, Looker Dashboards are created to provide detailed insights into both fraud and non-fraud transactions, enabling effective monitoring and analysis.
 
